@@ -1,2 +1,2 @@
-bitnami/mongodb
+purestorage/k8s
 
