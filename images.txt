@@ -1,2 +1,2 @@
-bitnami/elasticsearch
+jenkins/jenkins
 
