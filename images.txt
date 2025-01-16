@@ -1,5 +1,2 @@
-elasticsearch
-jenkins/jenkins
-vulhub/nacos
-mongodb/mongodb-community-server
+nacos/nacos-server
 
