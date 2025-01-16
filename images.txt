@@ -1,2 +1,2 @@
-elasticsearch
+bitnami/elasticsearch
 
