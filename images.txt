@@ -1,2 +1,2 @@
-rancher/k8s
+alpine/k8s
 
