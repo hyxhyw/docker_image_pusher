@@ -1,2 +1,2 @@
-purestorage/k8s
+rancher/k8s
 
