@@ -1,2 +1,2 @@
-alpine/k8s
+styxiaozhi/centos7.9
 
