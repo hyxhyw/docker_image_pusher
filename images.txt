@@ -1,2 +1,2 @@
-styxiaozhi/centos7.9
+centos
 
