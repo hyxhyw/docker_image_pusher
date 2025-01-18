@@ -1,2 +1,1 @@
-influxdb
-grafana/grafana
+google/cadvisor
